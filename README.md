@@ -24,4 +24,5 @@ In roughly 15 seconds, a stable heartbeat should be isolated with good lighting 
 
 Although it is possible to support detection on many individuals at once in an image stream from a single camera, only one face's worth of data is currently extracted for analysis.
 
-The real-time signal processing's entire dataflow and execution sequence looks like:
+The real-time signal processing's entire dataflow and execution sequence looks like: 
+<img src="https://raw.githubusercontent.com/bebochakravarti/Revive-Lives-/main/heart%20rate%20.png"></img>
